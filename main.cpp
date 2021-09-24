@@ -6,6 +6,8 @@ Integrantes:
 2) William Alexis Barrios Concha
 3) Oscar Mauricio Quispe Mallma
 
+https://github.com/Mauricio134/3inRaya_Maquina
+
 Título:
 -------
 Creación de un Tik Tak Toe en base a lenguaje C++ (Persona v.s. Máquina)
